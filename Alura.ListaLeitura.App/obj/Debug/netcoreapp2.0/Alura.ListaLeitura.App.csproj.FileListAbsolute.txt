@@ -11,3 +11,4 @@ C:\Users\55619\Documents\Yuri\academico\ciencia-da-computacao\cursos\programacao
 C:\Users\55619\Documents\Yuri\academico\ciencia-da-computacao\cursos\programacao\cSharp\Alura.ListaLeitura\Alura.ListaLeitura.App\obj\Debug\netcoreapp2.0\Alura.ListaLeitura.App.pdb
 C:\Users\55619\Documents\Yuri\academico\ciencia-da-computacao\cursos\programacao\cSharp\Alura.ListaLeitura\Alura.ListaLeitura.App\obj\Debug\netcoreapp2.0\Alura.ListaLeitura.App.genruntimeconfig.cache
 C:\Users\55619\Documents\Yuri\academico\ciencia-da-computacao\cursos\programacao\cSharp\Alura.ListaLeitura\Alura.ListaLeitura.App\bin\Debug\netcoreapp2.0\Repositorio\livros.csv
+C:\Users\55619\Documents\Yuri\academico\ciencia-da-computacao\cursos\programacao\cSharp\Alura.ListaLeitura\Alura.ListaLeitura.App\bin\Debug\netcoreapp2.0\HTML\formulario.html
